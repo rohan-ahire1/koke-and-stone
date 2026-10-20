@@ -18,7 +18,7 @@ A portfolio demo website for "Koke & Stone", a fictional moss-garden design stud
 Koke & Stone (koke, 苔, is Japanese for moss) designs, plants and tends moss gardens, courtyards and terrariums, then stays on for seasonal care. The site's proof of craft is its tokonoma alcove: one moss arrangement on a dark ledge that changes with the season, a hanging scroll that unrolls with the process, and gardens framed like temple windows.
 
 ## Capabilities and Constraints
-- Koke & Stone is fictional. The site must say so plainly (an "A concept by Rohan Ahire" link in the side rail, pinned on phones, the gardens intro, a tag on every project and the footer credit) so no visitor mistakes it for a real business.
+- Koke & Stone is fictional. The site must say so plainly (a "Concept site · not a real business" label in the side rail, pinned on phones, the gardens intro, a tag on every project and the footer credit) so no visitor mistakes it for a real business.
 - Contact uses a non-working example address (hello@kokeandstone.example). No prices, no booking system.
 
 ## Brand Commitments
